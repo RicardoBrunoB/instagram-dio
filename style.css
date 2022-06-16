@@ -85,7 +85,7 @@ body {
 
 .instagram-logout {
     color: #0095f6;
-    margin-top: 1rem;
+    margin-top: 0;
 }
 
 .not-account {
@@ -125,6 +125,15 @@ body {
 
 .app-download:nth-child(2) {
     background-image: url('./img/googleplay-button.png');
+}
+
+footer{
+    height: 10px;
+    position: absolute;
+    bottom:0;
+    display: flex;
+    align-items: center;
+    text-align: center;
 }
 
 /* media queries */
