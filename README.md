@@ -12,3 +12,7 @@ Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface
 * Inserção de rodape centralizado
 * Alteração de imagem de perfil e nomes
 * Inserção de imagem do instagram no title da aba do navegador
+
+## Resultado da interface elaborada
+![Exemplar](https://github.com/RicardoBrunoB/instagram-dio/blob/master/Exemplar.png)
+
